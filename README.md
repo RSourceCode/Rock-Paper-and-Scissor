@@ -104,7 +104,3 @@ python client.py
 * Ensure port is open on the host machine.
 * You can host the server locally.
 ---
-
----
-
-Let me know if you want a matching image/gif preview, or if you'd like me to create a GitHub-friendly version with markdown file or code comments too!
